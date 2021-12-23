@@ -37,7 +37,8 @@ namespace analise
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddDbContext<analiseContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("analiseContext")));
+                    options.UseMySql(Configuration.GetConnectionString("analiseContext"), builder =>
+                    builder.MigrationsAssembly("analise")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
