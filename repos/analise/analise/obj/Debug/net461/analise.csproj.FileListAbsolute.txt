@@ -713,7 +713,6 @@ C:\Users\israel.castiel\Source\Repos\IsraelCastiel\IsraelCastiel-C-\repos\analis
 C:\Users\israel.castiel\Source\Repos\IsraelCastiel\IsraelCastiel-C-\repos\analise\analise\obj\Debug\net461\analise.TagHelpers.input.cache
 C:\Users\israel.castiel\Source\Repos\IsraelCastiel\IsraelCastiel-C-\repos\analise\analise\obj\Debug\net461\analise.TagHelpers.output.cache
 C:\Users\israel.castiel\Source\Repos\IsraelCastiel\IsraelCastiel-C-\repos\analise\analise\obj\Debug\net461\analise.RazorCoreGenerate.cache
-C:\Users\israel.castiel\Source\Repos\IsraelCastiel\IsraelCastiel-C-\repos\analise\analise\obj\Debug\net461\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\israel.castiel\Source\Repos\IsraelCastiel\IsraelCastiel-C-\repos\analise\analise\obj\Debug\net461\Razor\Views\Home\About.cshtml.g.cs
 C:\Users\israel.castiel\Source\Repos\IsraelCastiel\IsraelCastiel-C-\repos\analise\analise\obj\Debug\net461\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\israel.castiel\Source\Repos\IsraelCastiel\IsraelCastiel-C-\repos\analise\analise\obj\Debug\net461\Razor\Views\Home\Index.cshtml.g.cs
