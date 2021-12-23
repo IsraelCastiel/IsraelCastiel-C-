@@ -9746,11 +9746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\israel.castiel\\source\\repos\\analise\\analise\\analise.csproj",
+      "projectUniqueName": "C:\\Users\\israel.castiel\\Source\\Repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\analise.csproj",
       "projectName": "analise",
-      "projectPath": "C:\\Users\\israel.castiel\\source\\repos\\analise\\analise\\analise.csproj",
+      "projectPath": "C:\\Users\\israel.castiel\\Source\\Repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\analise.csproj",
       "packagesPath": "C:\\Users\\israel.castiel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\israel.castiel\\source\\repos\\analise\\analise\\obj\\",
+      "outputPath": "C:\\Users\\israel.castiel\\Source\\Repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
