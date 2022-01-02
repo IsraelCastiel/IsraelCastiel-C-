@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QQai7IgARk+p8IYEgU5XBQTv13Gu+NGs1yOyzDoL9wuKHGQEHZVi0xIuoixsXG7v9kDC0aJ0ZugTiSUHCOc0cg==",
+  "dgSpecHash": "W4EwxwIJH9OZW401jAQewKP579209GBdjvoGSrq7zIbuXW7f0R/xFo41z+LfQbJq90cGdT9upEbVy+v5ex40Fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Source\\Repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\analise.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\analise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.antiforgery\\2.1.1\\microsoft.aspnetcore.antiforgery.2.1.1.nupkg.sha512",

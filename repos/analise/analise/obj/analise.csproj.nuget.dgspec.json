@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Source\\Repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\analise.csproj": {}
+    "C:\\Users\\DELL\\source\\repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\analise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Source\\Repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\analise.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\analise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Source\\Repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\analise.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\analise.csproj",
         "projectName": "analise",
-        "projectPath": "C:\\Users\\DELL\\Source\\Repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\analise.csproj",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\analise.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Source\\Repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\IsraelCastiel\\IsraelCastiel-C-\\repos\\analise\\analise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
